@@ -1,10 +1,9 @@
-import { useState } from 'react';
-import { Vocabulary } from './Pages/Vocabulary/index.jsx';
+import { Cards } from './Cards';
 
 function App() {
   return (
     <>
-      <Vocabulary />
+      <Cards />
     </>
   );
 }
