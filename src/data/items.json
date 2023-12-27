@@ -1,0 +1,41 @@
+[
+  {
+    "id": "G1",
+    "category": "general",
+    "fields": {
+      "side1": {
+        "word": "family",
+        "imageUrl": "../../public/imgs/family.jpg"
+      },
+      "side2": {
+        "imageUrl": "../../public/imgs/family.jpg"
+      }
+    }
+  },
+  {
+    "id": "F1",
+    "category": "food",
+    "fields": {
+      "side1": {
+        "word": "stake",
+        "imageUrl": "../../public/imgs/stake.jpg"
+      },
+      "side2": {
+        "imageUrl": "../../public/imgs/stake.jpg"
+      }
+    }
+  },
+  {
+    "id": "F1",
+    "category": "food",
+    "fields": {
+      "side1": {
+        "word": "spagetti",
+        "imageUrl": "../../public/imgs/spagetti.jpg"
+      },
+      "side2": {
+        "imageUrl": "../../public/imgs/spagetti.jpg"
+      }
+    }
+  }
+]
